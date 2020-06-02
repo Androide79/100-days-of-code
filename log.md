@@ -1,9 +1,9 @@
 # 100 Days Of Code - Log
 
-### Day 0: February 30, 2016
+### Day 0: June 02, 2020
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress**: Recovery of documentation and resources useful to start writing something sensible
 
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Thoughts:** The hard part was getting started, but I have to say thank you to somebody.
 
-**Link to work:** [Calculator App](http://www.example.com)
+**Link to work:** [Play with GO](https://github.com/Androide79/play-with-go)
