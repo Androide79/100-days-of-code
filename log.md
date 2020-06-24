@@ -13,3 +13,11 @@
 **Today's Progress**: Write a simple *Hello Dude* project with some unit-tests and coverage
 
 **Link to work:** [Play with GO](https://github.com/Androide79/play-with-go)
+
+### Day 2: June 24, 2020
+
+**Today's Progress**: Created my first external package in GO. Converted the main project into a GO module, used the external package created as a requirement. Implemented use of an environment file for configuration using the GO package [Viper](https://github.com/spf13/viper).
+
+**Thoughts**: Finding time for the challenge was hard, but day three was like a goal...lol
+
+**Link to work:** [Play with GO](https://github.com/Androide79/play-with-go)
