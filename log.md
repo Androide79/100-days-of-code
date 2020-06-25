@@ -21,3 +21,9 @@
 **Thoughts**: Finding time for the challenge was hard, but day three was like a goal...lol
 
 **Link to work:** [Play with GO](https://github.com/Androide79/play-with-go)
+
+### Day 3: June 25, 2020
+
+**Today's Progress**: Introduced a simple multi-language selector in the project
+
+**Link to work:** [Play with GO](https://github.com/Androide79/play-with-go)
