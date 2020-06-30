@@ -27,3 +27,9 @@
 **Today's Progress**: Introduced a simple multi-language selector in the project
 
 **Link to work:** [Play with GO](https://github.com/Androide79/play-with-go)
+
+### Day 4: June 29, 2020
+
+**Today's Progress**: intrduced logging system using '[logrus](https://github.com/sirupsen/logrus)' package
+
+**Link to work:** [Play with GO](https://github.com/Androide79/play-with-go)
